@@ -12,8 +12,7 @@ const About = () => {
           </h3>
 
           <p className="mt-4 text-center text-white font-titillium sm:text-xl mb-7">
-            Trump Media & Technology Group on the Solana network brings a whisker-twitching twist to the crypto world. With lightning-fast transactions on Solana's high-performance blockchain, $DJT combines the charm of
-            cat memes with the efficiency  of decentralized finance. Embrace the blend of fun and innovation as you navigate the crypto landscape with our feline-inspired token.
+            Behold the magnificent Trump Media & Technology Group, the ultimate MAGA 2024 dream machine! This glorious conglomerate, led by the inimitable Donald Trump, is the epitome of class, taste, and innovation, the stock of the summer!
           </p>
           <div className="flex items-center justify-center">
             <a

@@ -11,7 +11,7 @@ const Footer = () => {
             </div>
             <div className="md:w-[40%] md:p-2.5">
               <p className="text-center text-white font-titillium sm:text-xl">
-                Be part of the PUSS movement now and play a role in
+                Be part of the $DJT movement now and play a role in
                 making the world a more enjoyable and inclusive space for all!
               </p>
             </div>

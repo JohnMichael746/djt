@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <header
       className={`${
-        isScrolled ? "bg-[#df1731] fixed z-[1000000000000]" : "absolute z-[1000000000000]"
+        isScrolled ? "bg-white fixed z-[1000000000000]" : "absolute z-[1000000000000]"
       } py-5 transition-all ease-in-out duration-300 w-full z-50`}
     >
       <div className="max-w-6xl px-4 mx-auto">
@@ -52,7 +52,7 @@ const Header = () => {
                       });
                     window.history.pushState("home", "home", "/");
                   }}
-                  className="flex items-center space-x-3 font-coiny text-[22px] text-white"
+                  className="flex items-center space-x-3 font-coiny text-[22px] text-[#df1731]"
                 >
                   <img src="/imgs/home-icon.png" alt="home-icon" />
                   <span>Home</span>
@@ -71,7 +71,7 @@ const Header = () => {
                       });
                     window.history.pushState("about", "about", "/");
                   }}
-                  className="flex items-center space-x-3 font-coiny text-[22px] text-white"
+                  className="flex items-center space-x-3 font-coiny text-[22px] text-[#df1731]"
                 >
                   <img src="/imgs/kitty-icon.png" alt="kitty-icon" />
                   <span>About</span>
@@ -90,7 +90,7 @@ const Header = () => {
                       });
                     window.history.pushState("tokenomics", "tokenomics", "/");
                   }}
-                  className="flex items-center space-x-3 font-coiny text-[22px] text-white"
+                  className="flex items-center space-x-3 font-coiny text-[22px] text-[#df1731]"
                 >
                   <img src="/imgs/tokenomics-icon.png" alt="tokenomics-icon" />
                   <span>Tokenomics</span>
@@ -109,7 +109,7 @@ const Header = () => {
                       });
                     window.history.pushState("social", "social", "/");
                   }}
-                  className="flex items-center space-x-3 font-coiny text-[22px] text-white"
+                  className="flex items-center space-x-3 font-coiny text-[22px] text-[#df1731]"
                 >
                   <img src="/imgs/social-icon.png" alt="social-icon" />
                   <span>Social</span>
@@ -118,7 +118,7 @@ const Header = () => {
               <li>
                 <a
                   href="/"
-                  className="inline-block w-64 py-4 text-base font-normal text-center text-white uppercase border-4 border-white rounded-full bg-herobtngrad font-coiny"
+                  className="inline-block w-64 py-4 text-base font-normal text-center text-[#df1731] uppercase border-4 border-white rounded-full bg-herobtngrad font-coiny"
                 >
                   Get $DJT Token
                 </a>
