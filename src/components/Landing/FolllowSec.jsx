@@ -16,7 +16,7 @@ const FolllowSec = () => {
         </h3>
         <div className="flex items-center justify-center pt-6 space-x-3">
           <a
-            href="https://twitter.com/PussTheKitten"
+            href="https://x.com/djt_solana?s=21"
             target="_blank"
             rel="noreferrer"
             className="w-[90px] text-white h-[90px] rounded-full border-4 border-[#09eab4] flex items-center justify-center"
@@ -24,7 +24,7 @@ const FolllowSec = () => {
             <TwitterIcon />
           </a>
           <a
-            href="https://t.me/pussthekitten"
+            href="https://t.me/DJTofficial"
             target="_blank"
             rel="noreferrer"
             className="w-[90px] bg-[#2ca5e0] text-white h-[90px] rounded-full border-4 border-[#09eab4] flex items-center justify-center"
